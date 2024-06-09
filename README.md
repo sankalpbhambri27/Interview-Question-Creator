@@ -23,3 +23,6 @@ pip install -r requirements.txt
 
 4. git push origin main
 ```
+
+## Architecture
+### https://whimsical.com/interview-creator-application-arcitecture-VwVD3B55AuEybup5PHqYsS
