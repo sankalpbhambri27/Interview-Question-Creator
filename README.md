@@ -43,6 +43,8 @@ sudo apt install git curl unzip tar make sudo vim wget -y
 git clone "Your-repository"
 sudo apt install python3-pip
 sudo apt install python3-venv
+python3 -m venv vvv
+source vvv/bin/activate
 pip3 install -r requirements.txt
 ```
 
